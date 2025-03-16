@@ -19,3 +19,7 @@ Pure Data (Pd) matrix mixer with signal input support for coefficients
 2. outputs (colums)
 3. min value
 4. max value
+
+## dependencies
+
+* relies on some objects from https://github.com/ben-wes/pd-quatkram
